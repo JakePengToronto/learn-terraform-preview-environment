@@ -6,6 +6,7 @@ terraform {
       tags = ["hashicupsBackend"]
     }
   }
+  
 
   required_providers {
     vercel = {
